@@ -10,6 +10,8 @@ db = client.test
 #3.Get collection
 food_collection = db["food"] #collection
 
+user_collection = db["user"]
+
 
 #4. Create a new document
 # new_food = {
